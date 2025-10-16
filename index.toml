@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "bsl-shaders.pw.toml"
 hash = "c384d1c117331920a44021339b534c9129286b78ccdf54cda7a41a3ce75529e4"
 metafile = true
@@ -1070,14 +1074,6 @@ hash = "ee2ec38fcfba52f86dfce3a435dd7e2332ddfc9548625673c660e97fb1d3cc6a"
 [[files]]
 file = "config/medievalend.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/messages/client_messages.json"
-hash = "d145b0906fd185023a5dd47a5c6bbfb14be0bdeba5428a16011b90fbe0088da5"
-
-[[files]]
-file = "config/messages/server_messages.json"
-hash = "0ff2797b34326840aa2eeb7d88b8bdb6761fd6eab10e583c599673c55ff54187"
 
 [[files]]
 file = "config/midnightlib.json"

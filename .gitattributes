@@ -1,0 +1,11 @@
+# Force LF for text files used by packwiz
+*.toml text eol=lf
+*.json text eol=lf
+*.json5 text eol=lf
+*.mcmeta text eol=lf
+*.txt text eol=lf
+# Binary things should never be normalized
+*.zip binary
+*.jar binary
+*.png binary
+*.ogg binary
