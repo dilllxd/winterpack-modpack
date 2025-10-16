@@ -1,0 +1,13 @@
+name = "JustTimm's Vanilla Additions - Winter Edition (+ Christmas Add-On)"
+filename = "Vanilla_Additions_Winter_Edition_1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6634bb89134ee6ced6a97a41fa74fc9c80e85dbd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4814950
+project-id = 354421

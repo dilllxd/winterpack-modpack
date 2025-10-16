@@ -1,0 +1,13 @@
+name = "More Useful Copper"
+filename = "more_useful_copper-merged-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58d95422a4941bf493ee8ce584a3665f7242f00e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6020408
+project-id = 983503

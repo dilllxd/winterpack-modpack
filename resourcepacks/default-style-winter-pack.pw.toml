@@ -1,0 +1,13 @@
+name = "Default-Style Winter Pack"
+filename = "WinterPack_1.20.1_v1.8.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ef41bb2802c8b25668690c2ac106f1478159d02"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4820377
+project-id = 351202

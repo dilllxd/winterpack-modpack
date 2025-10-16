@@ -1,0 +1,13 @@
+name = "Overclocked Watches"
+filename = "overclocked_watches-merged-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9aa045bf7f37e49e4e2daa8eba8213ef16055ed4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6067239
+project-id = 968047

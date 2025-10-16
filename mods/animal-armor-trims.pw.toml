@@ -1,0 +1,13 @@
+name = "Animal Armor Trims - Horse & Wolf"
+filename = "animal_armor_trims-merged-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a295114a26691247989c44dbf3383ae212f36c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6313689
+project-id = 1008327

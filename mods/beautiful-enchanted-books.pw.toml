@@ -1,0 +1,13 @@
+name = "Beautiful Enchanted Books [MOD EDITION] | 5.0 UPDATE!"
+filename = "BEB-Forge-1.20.1-5.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdead40f4ce6f6cb9b4b43749c7a3142fa1b778f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6726133
+project-id = 1083202

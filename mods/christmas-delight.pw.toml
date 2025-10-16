@@ -1,0 +1,13 @@
+name = "Christmas Delight (Farmers Delight Addon)"
+filename = "farmers_delight_christmas_edition-V1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38a1cf47ff9624e30222a4afcef26226229e9781"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6157162
+project-id = 1134366

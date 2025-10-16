@@ -1,0 +1,13 @@
+name = "Christmas Festivity"
+filename = "christmasfestivity-1.20.1-1.6.3-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9072a370e2db083db9f1a160805c6b19de9e62bb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4973892
+project-id = 282604

@@ -1,0 +1,13 @@
+name = "Winter Pack Modpack"
+author = "Dylan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "787f39b966793fdd3650257bbcbf9a0adcf36889db6ce2fb66e05de96548547d"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

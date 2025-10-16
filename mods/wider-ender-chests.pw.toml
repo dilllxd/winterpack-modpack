@@ -1,0 +1,13 @@
+name = "Wider Ender Chests"
+filename = "forge_wider_ender_chests-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd2f2d990759410154ef3bf529249d26ed4977e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5698855
+project-id = 1010456

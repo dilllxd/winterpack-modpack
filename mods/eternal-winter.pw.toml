@@ -1,0 +1,13 @@
+name = "Eternal Winter"
+filename = "eternalwinter-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf8aeedd40349ef3aae2bcca186d1e71d511b105"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4711122
+project-id = 273891
