@@ -2356,6 +2356,10 @@ hash = "6944240bb02b05062e5175d4015b1470710cfe0a4a22d246ab943ac12548d283"
 metafile = true
 
 [[files]]
+file = "servers.dat"
+hash = "45c2efb3cbb7470e5566f20dadbe06cc60a66683b8936e59af27048cb46d7050"
+
+[[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "86a9a02c94f9656a0b202f48354e944f09f792a41a84a2a02b51eccb4f998c49"
 metafile = true
