@@ -5,21 +5,6 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "bsl-shaders.pw.toml"
-hash = "c384d1c117331920a44021339b534c9129286b78ccdf54cda7a41a3ce75529e4"
-metafile = true
-
-[[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "9f8e443df6075210eef82f35c5f95db92c19d7b1a1267a4593fa97c079993ed6"
-metafile = true
-
-[[files]]
-file = "complementary-unbound.pw.toml"
-hash = "006170836f3180d229a6b95e1b33c060d7afcd0755273669faf78e86f50579ed"
-metafile = true
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -709,7 +694,7 @@ hash = "688f8898ad02d43bd7d1ab2508b08488769608c6d79fc95349edd67f59c05579"
 
 [[files]]
 file = "config/defaultoptions-common.toml"
-hash = "9424ceb580ec8f3f074ebcc0618bfceebb62bb44d64750c7df5964fc7713964c"
+hash = "a7027f6d7c136a2eadbbe983e1ce60b415377e5b5dac38333c7182115759e79f"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -2351,11 +2336,6 @@ hash = "f664d8e9753262b287d5cf1be3d17a59d01b7f8293b91db335adcc2cae5e2f55"
 metafile = true
 
 [[files]]
-file = "pastel-shaders.pw.toml"
-hash = "75ab86620198850b00054d0025a6496fdd7b002ae05e9a57dd44d8c894a8a0c0"
-metafile = true
-
-[[files]]
 file = "resourcepacks/default-style-christmas-pack.pw.toml"
 hash = "1ff2cf45706877cbaae5c211c82e5d24fef1cde11c7137396b942426e823871c"
 metafile = true
@@ -2373,4 +2353,24 @@ metafile = true
 [[files]]
 file = "resourcepacks/justtimms-vanilla-additions-winter-edition.pw.toml"
 hash = "6944240bb02b05062e5175d4015b1470710cfe0a4a22d246ab943ac12548d283"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "86a9a02c94f9656a0b202f48354e944f09f792a41a84a2a02b51eccb4f998c49"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "91a77a3f031bdf1ac4de9d1be6925704e85dfd8895bad7b717fc2ec1d50d9114"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "70db0963bd7131d0cd9a90b0c38bb84b709034e2cec004a675b4bff1f058102d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/pastel-shaders.pw.toml"
+hash = "587e11886ea9ff88deb346e38902dc909f35139cf9ebe18a33632c0d438274ee"
 metafile = true

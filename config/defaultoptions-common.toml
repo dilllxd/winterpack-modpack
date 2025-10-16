@@ -4,3 +4,8 @@ defaultDifficulty = "NORMAL"
 #Set to true if the difficulty for new world's should be locked to the specific default. This cannot be unlocked by players without external tools! Probably a bad idea. I don't recommend. Why am I adding this option?
 lockDifficulty = false
 
+[server_list]
+[[server_list.servers]]
+name = "The Winterland Modpack Server"
+ip = "winter.dylan.lol"
+
