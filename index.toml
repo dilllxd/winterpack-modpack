@@ -1138,7 +1138,7 @@ hash = "2f9eeb6d46048ef532a99f1a2c4df076ee007a213b91df35c2dd0e28c5aa6a0a"
 
 [[files]]
 file = "config/plasmovoice/config.toml"
-hash = "16a6b2edd13094fb0dcf4dec087be17349144c29da7b2e215b5b0c54af4ad8aa"
+hash = "6da751685e158bea5c6e091b4cb56479c65672309551bd9c88daeabab9c0da8e"
 
 [[files]]
 file = "config/polymorph-integrations.toml"
