@@ -1137,6 +1137,10 @@ file = "config/overclocked_watches.toml"
 hash = "2f9eeb6d46048ef532a99f1a2c4df076ee007a213b91df35c2dd0e28c5aa6a0a"
 
 [[files]]
+file = "config/plasmovoice/config.toml"
+hash = "16a6b2edd13094fb0dcf4dec087be17349144c29da7b2e215b5b0c54af4ad8aa"
+
+[[files]]
 file = "config/polymorph-integrations.toml"
 hash = "47c2b8a65ca08ee0a73400bf6b8ccc0a831b4c220fa95097eff6216456fc511a"
 
@@ -2061,6 +2065,11 @@ hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "0fe815483bbf1e5ce9f4ccbe17f3f8f3015190d8f7affe3ab8a1221bb9d52e0d"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
 metafile = true
@@ -2073,6 +2082,21 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-groups.pw.toml"
+hash = "7a51b041979e7584c922ae8aefdb6de7b1a4d3ac443d16d594a4508ff6ac41a0"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-sculk.pw.toml"
+hash = "e84f6882e1c10af15fe433dd60cd9855c9dd6fbd363bab99732e760467b04754"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-soundphysics.pw.toml"
+hash = "c0f63f1502f3d5a3f591cfdbe11084fd6b88f03254806d5dae0566419123c05c"
 metafile = true
 
 [[files]]
@@ -2158,6 +2182,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "b126f605fec04ff64c9f542c2f6d2b2e420a1697c8c0d11f8c09b4afe599a0a9"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "416bb6449da951ec1a04156348c502b9e47a947212becc173d277faaddaaaccd"
 metafile = true
 
 [[files]]

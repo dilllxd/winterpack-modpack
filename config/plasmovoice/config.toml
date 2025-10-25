@@ -1,0 +1,4 @@
+# Default values
+[host]
+ip = "0.0.0.0"
+port = 58261
