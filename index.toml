@@ -1706,7 +1706,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "58316bb3bdcaed174ac3048978888c32aec094a91d9b9a91701d52d81044cd26"
+hash = "dc79c63270b043b69c33e2e770393974c64c0ab5431d027ed6550bb6b72f4144"
 metafile = true
 
 [[files]]
