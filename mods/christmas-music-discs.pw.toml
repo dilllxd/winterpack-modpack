@@ -1,13 +1,13 @@
 name = "Christmas Music Discs"
-filename = "christmasmusicdiscs-1.20.1-v1.3.jar"
+filename = "christmasmusicdiscs-1.20.1-v1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7bb6a671f0b4eaff892216e67291c09d00d53593"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/46okniky/versions/Sy2hCdTS/christmasmusicdiscs-1.20.1-v1.2.jar"
+hash-format = "sha512"
+hash = "7deb6b6bcfd58a8766d74746a8dc297fd2b270548f96362fa5ee3ae903641d098d2c9d2b39137379631453ee2e7aed30ab92e451f6076727f163a584680a1f47"
 
 [update]
-[update.curseforge]
-file-id = 5936160
-project-id = 1135456
+[update.modrinth]
+mod-id = "46okniky"
+version = "Sy2hCdTS"

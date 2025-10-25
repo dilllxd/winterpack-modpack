@@ -1321,6 +1321,11 @@ file = "config/waystones-common.toml"
 hash = "431e021e735c9b4efe9f9ae796d12e97325ede4fa6c344f03efdf99a1f229754"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "b2ed80a95132518a9a6d52a487a7ddcc5b73904a335af5274d912c78fda3a649"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "f131905d113ba9dd127abf3c9f897aaf4ecf59657c415752533893d44cb584df"
 metafile = true
@@ -1367,7 +1372,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquaculture-delight.pw.toml"
-hash = "624514fd57a5bad649068f8f2d6c45d88228249a266bd61b45cb749c42499766"
+hash = "da06aae3c2a37a247a474578a2e86ed604a5c282c62c524b4abea6333c0254e8"
 metafile = true
 
 [[files]]
@@ -1496,8 +1501,8 @@ hash = "c24b32e120ddbe1da2fdc25a0998a2608cbbf19c8075a8919cd631d1e38dd448"
 metafile = true
 
 [[files]]
-file = "mods/christmas-delight.pw.toml"
-hash = "9c66f1fadd11905cf2e8bd3e27dc614a69540bacdfd68d1c8648c37ffd22a81f"
+file = "mods/christmas-delight-(farmers-delight-addon).pw.toml"
+hash = "9267a05025c0a9d4f8c3a556ea0151dfe6d117f666ab7c84f7c7e3dbb09aca07"
 metafile = true
 
 [[files]]
@@ -1507,7 +1512,7 @@ metafile = true
 
 [[files]]
 file = "mods/christmas-music-discs.pw.toml"
-hash = "ccfe2c15a2354112a666f09c04615f3fadbcfb3b6e2cb5f88973fd75713d54ac"
+hash = "e4a94b5988f900795dfd87e35d68c5c1219b3e8a76518006e61ca8d68ddb57c2"
 metafile = true
 
 [[files]]
@@ -1692,7 +1697,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "c2975fcb645c3185daaa845ae2aa0f5b491cb31c225c0beca15418b4ab9d8e1d"
+hash = "5ac6fe9a921d8fa00456ec2e18da02ede5c0da424c5c5b57da1206feeac40ff6"
 metafile = true
 
 [[files]]
@@ -1702,7 +1707,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "20f97407b947f060dca843437c9d4c75f3eec8fd8747160c3d241dbd6c625f49"
+hash = "ecdd85eb91c66e843bc6194c85a5a0172e1a9717c9205e07c5d0f160bf5927f9"
 metafile = true
 
 [[files]]
@@ -1737,7 +1742,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "067fc433511066d18b1795b86c9856246a8da7f9a4316afd6b25e5eee181f660"
+hash = "9f2ffb0d4c65fcb2a96878287a7119459b9d0637c395e5097d691416690d6563"
 metafile = true
 
 [[files]]
@@ -2027,7 +2032,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "3a52a41a3a373365b2cb8f67acdbe5a700edc54ed9c30031b8fe7f27d7478555"
+hash = "59a9bbe68d16fdb5955d9775cca44093e43660d67b3ab4fba35a088db0ae5de5"
 metafile = true
 
 [[files]]
@@ -2103,11 +2108,6 @@ metafile = true
 [[files]]
 file = "mods/sit.pw.toml"
 hash = "8e53bd7c51af468c9dd6dc8843167c4f9a55cc059dcfb127b55f9ac06c387bca"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "08df98fe6ca70335ac9d364232bbf4a2bfc8d331cf0fac805a09741b19e8756e"
 metafile = true
 
 [[files]]
@@ -2347,7 +2347,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "a8a5b310a327b30be69b526640abbd7f61300a0266cd1d62a8765058ad3e8dac"
+hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
 metafile = true
 
 [[files]]

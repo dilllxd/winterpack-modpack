@@ -1,12 +1,12 @@
-name = "Winter Pack Modpack"
+name = "WinterPack"
 author = "Dylan"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "11f312ca76924fa2fd6031bdb94c429cc10093128fb11fc39b658ac7e1fdc2f7"
+hash = "173b03725af1b68da6bfd92c4d26a53f9836635f50ff0027702e630117ffde82"
 
 [versions]
 forge = "47.4.0"
